@@ -15,10 +15,7 @@ export function Header() {
       <nav className='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex items-center justify-between'>
         {/* Logo */}
         <div className='flex items-center gap-2'>
-          <div className='text-2xl font-bold gradient-text'>NeuroReach</div>
-          <span className='text-xs font-semibold text-cyan-400 bg-slate-900 px-2 py-1 rounded-full'>
-            AI
-          </span>
+          <div className='text-2xl font-bold gradient-text'>Tech Wired</div>
         </div>
 
         {/* Desktop Navigation */}

@@ -8,7 +8,7 @@ export function About() {
           {/* Left Side - Content */}
           <div>
             <h2 className='text-4xl sm:text-5xl font-bold mb-6'>
-              About <span className='gradient-text'>NeuroReach AI</span>
+              About <span className='gradient-text'>Tech Wired</span>
             </h2>
 
             <p className='text-lg text-slate-300 mb-6 leading-relaxed'>
@@ -125,7 +125,7 @@ export function About() {
                   zero to hero. That's what we do."
                 </p>
                 <p className='text-cyan-400 font-bold mt-3'>
-                  — NeuroReach AI Team
+                  — Tech Wired Team
                 </p>
               </div>
             </div>

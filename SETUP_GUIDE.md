@@ -1,6 +1,6 @@
-# NeuroReach AI - Premium AI Marketing Agency Website
+# Tech Wired - Digital Solutions Platform
 
-A modern, high-conversion website for NeuroReach AI, an AI marketing agency helping startups and SaaS companies promote their AI products through viral content, YouTube marketing, and strategic growth campaigns.
+A modern, high-conversion website for Tech Wired, a digital solutions company providing cutting-edge technology services and consulting.
 
 ## 🎯 Features
 
@@ -308,12 +308,12 @@ Tailwind classes throughout components
 
 ## 📞 Support & Contact
 
-For customization or questions about the NeuroReach AI website, contact: hello@neuroreach.ai
+For customization or questions about the Tech Wired website, contact: hello@techwired.io
 
 ## 📄 License
 
-© 2024 NeuroReach AI. All rights reserved.
+© 2024 Tech Wired. All rights reserved.
 
 ---
 
-**Ready to make your AI product go viral?** 🚀
+**Ready to transform your business with technology?** 🚀

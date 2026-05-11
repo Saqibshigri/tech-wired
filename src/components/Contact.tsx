@@ -70,10 +70,10 @@ export function Contact() {
                   <h3 className='font-bold mb-1'>Email Us</h3>
                   <p className='text-slate-400'>We respond within 24 hours</p>
                   <a
-                    href='mailto:hello@neuroreachaicom'
+                    href='mailto:hello@techwired.io'
                     className='text-purple-400 font-semibold hover:text-purple-300 transition'
                   >
-                    hello@neuroreach.ai
+                    hello@techwired.io
                   </a>
                 </div>
               </div>

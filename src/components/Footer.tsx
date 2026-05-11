@@ -8,7 +8,7 @@ export function Footer() {
           {/* Brand */}
           <div>
             <div className='flex items-center gap-2 mb-4'>
-              <div className='text-2xl font-bold gradient-text'>NeuroReach</div>
+              <div className='text-2xl font-bold gradient-text'>Tech Wired</div>
               <span className='text-xs font-semibold text-cyan-400 bg-slate-900 px-2 py-1 rounded-full'>
                 AI
               </span>
@@ -145,7 +145,7 @@ export function Footer() {
 
         {/* Bottom */}
         <div className='flex flex-col md:flex-row justify-between items-center text-sm text-slate-400'>
-          <p>&copy; 2024 NeuroReach AI. All rights reserved.</p>
+          <p>&copy; 2024 Tech Wired. All rights reserved.</p>
           <div className='flex gap-4 mt-4 md:mt-0'>
             <a href='#' className='hover:text-cyan-400 transition'>
               Status

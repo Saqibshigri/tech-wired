@@ -1,6 +1,6 @@
-# NeuroReach AI - Deployment Guide
+# Tech Wired - Deployment Guide
 
-This guide covers deployment options and setup for the NeuroReach AI website.
+This guide covers deployment options and setup for the Tech Wired website.
 
 ## 🚀 Deployment Options
 
@@ -103,7 +103,7 @@ VITE_API_URL=http://localhost:3000
 
 # Production
 NODE_ENV=production
-VITE_API_URL=https://api.neuroreach.ai
+VITE_API_URL=https://api.techwired.io
 ```
 
 ## 📊 Performance Optimization
