@@ -1,4 +1,4 @@
-import { Youtube, Zap, Film, Trending, Share2 } from "lucide-react";
+import { Youtube, Zap, Film, TrendingUp, Share2 } from "lucide-react";
 
 const services = [
   {
@@ -38,7 +38,7 @@ const services = [
     ],
   },
   {
-    icon: Trending,
+    icon: TrendingUp,
     title: "Startup Growth Marketing",
     description:
       "Comprehensive growth strategy including content calendar, audience analysis, and conversion funnel optimization for AI startups.",
