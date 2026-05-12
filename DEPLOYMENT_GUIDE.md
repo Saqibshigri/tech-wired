@@ -33,18 +33,28 @@ npm run build
 netlify deploy --prod --dir=dist
 ```
 
-### Option 3: GitHub Pages
+### Option 3: GitHub Pages (Automatic)
 
-Free hosting via GitHub.
+Free hosting via GitHub with automatic deployment.
+
+#### Setup Steps:
+
+1. **Enable GitHub Pages** in your repository settings:
+   - Go to Settings → Pages
+   - Set Source to "GitHub Actions"
+
+2. **Push your changes** - deployment happens automatically on every push to main branch
+
+3. **Your site will be available at**: `https://Saqibshigri.github.io/tech-wired/`
+
+#### Manual Deployment (if needed):
 
 ```bash
-# 1. Update vite.config.ts base setting
-# base: '/repo-name/'
+# Install gh-pages globally
+npm install -g gh-pages
 
-# 2. Build
+# Build and deploy
 npm run build
-
-# 3. Deploy to gh-pages branch
 npm run deploy
 ```
 

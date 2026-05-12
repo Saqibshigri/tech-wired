@@ -1,3 +1,3 @@
-# AIwired
+# Tech Wired
 
-This repository contains the AIwired landing page project.
+This repository contains the Tech Wired landing page project.
