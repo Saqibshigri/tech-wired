@@ -1,8 +1,8 @@
-import { Youtube, Zap, Film, TrendingUp, Share2 } from "lucide-react";
+import { Zap, Film, TrendingUp, Share2 } from "lucide-react";
 
 const services = [
   {
-    icon: Youtube,
+    icon: Zap,
     title: "YouTube Promotion",
     description:
       "Strategic YouTube channel growth for AI tools with viral thumbnail design, SEO optimization, and subscriber conversion strategies.",
